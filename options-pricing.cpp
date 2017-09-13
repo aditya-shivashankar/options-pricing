@@ -1,4 +1,4 @@
-// IE420_project.cpp : Defines the entry point for the console application.
+// options-pricing.cpp : Defines the entry point for the console application.
 //
 
 #include "stdafx.h"
